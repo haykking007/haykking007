@@ -1,8 +1,6 @@
-## Hi there 👋 This is Hayk
+##                                                                                                                         Hi there 👋 This is Hayk
 
-## Tech Stack
-
-### Senior Full Stack Dev
+## Senior Full Stack Developer
 - Frontend: 
 React, Vue, Next.js, Nuxt.js, Angular, Svelte, Typescript, Javascript, TailwindCSS, AntD, Chakra UI, Vuetify, Bootstrap, MUI, Metronic UI, semantic UI.
 - Backend: 
