@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Hayk
 
 <!--
 **haykking007/haykking007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+amplify aws bootstrap canvasjs chartjs django docker express figma firebase gatsby gcp git heroku jest mocha mongodb mysql nestjs nextjs nodejs nuxtjs postgresql postman python redis sass
