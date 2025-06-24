@@ -20,6 +20,7 @@ I'm a full-stack developer with 8+ years of experience delivering high-quality w
 ### ⚙️ Backend  
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=flat-square" />
@@ -48,4 +49,4 @@ I'm a full-stack developer with 8+ years of experience delivering high-quality w
 
 ---
 
-⭐ Thanks for visiting my profile — feel free to explore and star projects!
+⭐ Thanks for visiting my profile!
