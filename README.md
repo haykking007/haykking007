@@ -1,17 +1,15 @@
 ## Hi there 👋 This is Hayk
 
-<!--
-**haykking007/haykking007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### amplify aws bootstrap canvasjs chartjs django docker express figma firebase gatsby gcp git heroku jest mocha mongodb mysql nestjs nextjs nodejs nuxtjs postgresql postman python redis sass
+### Senior Full Stack Dev
+- Frontend: 
+React, Vue, Next.js, Nuxt.js, Angular, Svelte, Typescript, Javascript, TailwindCSS, AntD, Chakra UI, Vuetify, Bootstrap, MUI, Metronic UI, semantic UI.
+- Backend: 
+Node, Express.js, Nest.js, Python, Django, Flask, FastAPI, C#, .NET, ASP .NET Core
+- DB: 
+MySQL, Firebase, MongoDB, DynamoDB, RDBMS, PostgreSQL, Redis
+- API: 
+Sendgrid v3, Twilio, Stripe, PaypaI, Recurely, Doordash, Postmates, Airhob, WebSockets, Zoom, Nexmo, Mailchimp, Squareup, Shopstagion, Podio, Amazon , EBay Inventory API, Google API(Map, googlesheet, Form).
+- Other: 
+AWS (EC2, S3, RDS, AWS Elastic Beanstalk, Lambda, CloudFront, CloudWatch, EventBridge, codePipeline), Azure, Docker, Kubernetes, Git.
