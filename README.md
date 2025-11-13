@@ -6,6 +6,16 @@ I'm a full-stack developer with 8+ years of experience delivering high-quality w
 
 ## 🚀 Tech Stack Highlights
 
+### ⚙️ Backend  
+<p>
+  <img src="https://img.shields.io/badge/Python-339933?logo=Python&logoColor=white&style=flat-square" /?
+  <img src="https://img.shields.io/badge/Django-000000?logo=Django&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat-square" />
+</p>
+
 ### ⚙️ Frontend  
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" />
@@ -15,17 +25,6 @@ I'm a full-stack developer with 8+ years of experience delivering high-quality w
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
-</p>
-
-### ⚙️ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Python-339933?logo=Python&logoColor=white&style=flat-square" /?
-  <img src="https://img.shields.io/badge/Django-E0234E?logo=Django&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat-square" />
 </p>
 
 ### ⚙️ DevOps & Tools  
